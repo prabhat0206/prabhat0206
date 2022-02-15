@@ -2,7 +2,7 @@
 Know python, javascript, and typescript<br />
 Backend libraries or frameworks Node js (express), Django, and Flask<br />
 Extra libraries React, Next and React Native<br />
-AWS (S3, DYNAMODB, SQL DATABASES)<br /><br />
+AWS (S3, DYNAMODB, SQL DATABASES, EC2)<br /><br />
 <br />
 <img src="https://spotify-recently-played-readme.vercel.app/api?user=314j3msrind2ru7qufjxlj2hplqe&count=1" width="500" />
 <br />
