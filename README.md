@@ -43,6 +43,7 @@ AWS (S3, DYNAMODB, SQL DATABASES, EC2)<br /><br />
 ### Support Me
 <a href="https://www.buymeacoffee.com/encoded"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
+### Commit Graph
 <a href="http://www.github.com/prabhat0206"><img src="https://activity-graph.herokuapp.com/graph?username=prabhat0206&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <!---
