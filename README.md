@@ -2,7 +2,7 @@
 Know python, javascript, and typescript<br />
 Backend libraries or frameworks Node js (express), Django, and Flask<br />
 Extra libraries React, Next and React Native<br />
-AWS (S3, DYNAMODB, SQL DATABASES, EC2)<br /><br />
+AWS (S3, DYNAMODB, SQL DATABASES, EC2, AWS Lambda)<br /><br />
 
 
 *   🌍  I'm based in India
