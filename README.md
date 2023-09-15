@@ -1,6 +1,6 @@
 ## Hi 👋, I'm Prabhat Ranjan, an experienced software developer of hands-on expertise in crafting digital solutions.<br/>
 ### 🚀 Full Stack Developer | DevOps Advocate <br/>
-##### Currently, I thrive as a Full Stack Developer, where I blend my front-end and back-end skills to create seamless web applications. Whether it's crafting pixel-perfect user interfaces or optimizing server performance, I love solving tech challenges.<br> 🔧 DevOps is not just a buzzword for me; it's a way of life. I believe in the power of automation and continuous integration to streamline development and deployment processes. <br><br>
+##### Currently, I thrive as a Full Stack Developer, where I blend my front-end and back-end skills to create seamless web applications. Whether it's crafting pixel-perfect user interfaces or optimizing server performance, I love solving tech challenges.<br><br> 🔧 DevOps is not just a buzzword for me; it's a way of life. I believe in the power of automation and continuous integration to streamline development and deployment processes. <br><br>
 
 - 🌐 Exploring the digital universe, one line of code at a time.
   
