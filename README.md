@@ -3,19 +3,11 @@
 #### Currently, I thrive as a Full Stack Developer, where I blend my front-end and back-end skills to create seamless web applications. Whether it's crafting pixel-perfect user interfaces or optimizing server performance, I love solving tech challenges.<br> 🔧 DevOps is not just a buzzword for me; it's a way of life. I believe in the power of automation and continuous integration to streamline development and deployment processes. <br><br>
 
 - 🌐 Exploring the digital universe, one line of code at a time.
-  
 - 🔭 I’m currently working on **SAST Tool For Android Developers**
-
 - 🌱 I’m currently learning **Rust**
-
 - 👯 I’m looking to collaborate on **Any Project related python, js, ts and rust**
-
 - 👨‍💻 All of my projects are available at [GitHub](github.com/prabhat0206)
-
-- 💬 Ask me about **JavaScript, Typescript, Python**
-
 - 📫 How to reach me **www.encodedprogrammer@gmail.com**
-
 - ⚡ Fun fact **I think problems are my best friends.**<br><br>
 
 <h3 align="left">Connect with me:</h3>
